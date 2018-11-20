@@ -36,6 +36,8 @@
 
 :pencil2: Secure Property Titles - [Matheus Bach](https://github.com/matheusbach/)
 
+:pencil2: areopagitica - [cxzaqwed](https://github.com/cxzaqwed/)
+
 
 ### Textos traduzidos: 
 

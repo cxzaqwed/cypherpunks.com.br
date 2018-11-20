@@ -84,8 +84,6 @@
 
 ### Textos aguardando tradução:
  
- :clock3: [areopagitica](../todo/areopagitica.html)
- 
  :clock3: [bitcoin](../todo/bitcoin.html)
  
  :clock3: [contract language](../todo/contract-language.html)
